@@ -1,5 +1,5 @@
 # Technical-Drawing
-# Technical Drawing and Industrial Blueprints 1 - کتاب رسم فنی و نقشه های صنعتی 1
+# Technical Drawing and Industrial Blueprints - کتاب رسم فنی و نقشه های صنعتی 
 
 ![Project Logo](logo.png)
 
