@@ -1,7 +1,9 @@
 # Technical-Drawing
 # Technical Drawing and Industrial Blueprints - کتاب رسم فنی و نقشه های صنعتی 
+<p float="center">
+  <img src="224719.jpg" /> 
+</p>
 
-![Project Logo](logo.png)
 
 This repository is dedicated to the creation of 3D models based on the content of the book "Technical Drawing and Industrial Blueprints 1" (کتاب رسم فنی و نقشه های صنعتی 1) authored by Ahmad Motaghi Pour and Mobin Motaghi Pour. The project was carried out voluntarily by Ahmad Zin Ganje and Mahdi Boyaghchi, under the supervision of Professor Minayie. The aim was to gain a deeper understanding of 3D modeling techniques in the context of technical drawings and industrial blueprints.
 
